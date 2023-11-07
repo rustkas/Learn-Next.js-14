@@ -1,6 +1,13 @@
 # Learn-Next.js-14
 https://codewithguillaume.com/ introduction. Useful code examples
 
+## Notification
+- React Toastify
+- React snackbar
+- Sooner  sooner.emilkowal.ski
+
+## State
+- Zustand
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

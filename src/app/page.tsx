@@ -1,8 +1,13 @@
 "use client"
 
 import Header from "@/components/Header"
+import { Metadata } from "next"
 import { useRouter } from "next/navigation"
 
+export const metadata: Metadata = {
+  title: 'My application main title',
+  description: 'This is the main description of the application'
+}
 
 export default function Page() {
   const router = useRouter()
